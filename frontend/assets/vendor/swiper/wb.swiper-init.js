@@ -1,0 +1,1 @@
+$(function(){'use strict';var mySwiper=new Swiper('.swiper-container',{loop:true,grabCursor:true,slidesPerView:3,breakpoints:{414:{slidesPerView:1},800:{slidesPerView:2}},pagination:{el:'.swiper-pagination',clickable:true,},navigation:{nextEl:'.swiper-button-next',prevEl:'.swiper-button-prev',}});});
